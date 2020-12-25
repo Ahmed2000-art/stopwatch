@@ -1,0 +1,22 @@
+body {
+	color: white;
+	background-color: #f0a500;
+	text-align: center;
+}
+
+h1 {
+	padding: 20px;
+	font-size: 50px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.download-button {
+	margin:20px;
+	padding: 15px 70px;
+}
+
+#display {
+	font-size: 30px
+}
+
+
